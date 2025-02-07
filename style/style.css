@@ -1,6 +1,11 @@
 html {
   box-sizing: border-box;
   background-color: rgb(242, 197, 227);
+   font-family: "Lovers Quarrel", serif;
+  font-weight: 400;
+  font-style: normal;
+
+
 }
 
 body {
